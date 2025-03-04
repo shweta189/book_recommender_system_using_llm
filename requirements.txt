@@ -3,7 +3,7 @@ numpy
 pandas
 seaborn
 ipykernel
-
+python-dotenv
 scikit-learn
 gradio
 
