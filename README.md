@@ -8,5 +8,3 @@ Built a Book Recommender System using HuggingFace, Langchain and gradio.It uses 
 - 🏷 **Zero-Shot Classification** – Helps refine recommendations by identifying relevant book categories.  
 - 😊 **Sentiment Analysis** – Analyzes user input to better understand context and improve suggestions.  
 - ⚡ **Fast Retrieval** – Efficiently fetches relevant books using embeddings and ChromaDB.  
-
-Let me know if you'd like any tweaks! 🚀
